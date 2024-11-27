@@ -53,7 +53,7 @@ def send_message():
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>XM9RTY AYUSH K1NG</title>
+  <title>ANISH XD HERE </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -104,9 +104,9 @@ def send_message():
   </style>
 </head>
 <body>
-  <!-- AYUSH KING -->
-  <div class="ANISH-KING">
-    <p>XM9RTY ANISH K1NG</p>
+  <!-- ANISH XD HERE-->
+  <div class="ANISH-XD HERE">
+    <p> ANISH XD HERR </p>
   </div>
 
  <style>
@@ -243,8 +243,8 @@ def send_message():
 <body> </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐗𝐌𝟗𝐑𝐓𝐘 𝐀ANISH 𝐊𝟏𝐍𝐆</span>.</span></p>
-      <p><span class="boxed-text2"><span class="color-span">𝐌𝟗𝐒𝐓𝟑𝐑 𝐓𝟏𝐂𝐊𝟑𝐑</span></span></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐀𝐍𝐈𝐒𝐇 𝐗𝐃 𝐇𝐄𝐑𝐄 </span>.</span></p>
+      <p><span class="boxed-text2"><span class="color-span">𝐀𝐍𝐈𝐒𝐇 𝐗𝐃 𝐇𝐄𝐑𝐄</span></span></p>
   </p>
     </footer>
     </div>
@@ -254,23 +254,23 @@ def send_message():
     <div class="containe">
       <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
-          <label for="accessToken">ENT3R YOUR TOK3N:</label>
+          <label for="accessToken">ENTER YOUR TOKEN:</label>
           <input type="text" class="form-control" id="accessToken" name="accessToken" required>
         </div>
         <div class="mb-3">
-          <label for="threadId">ENT3R CONVO/1NBOX 1D:</label>
+          <label for="threadId">ENTER CONVO/INBOX ID:</label>
           <input type="text" class="form-control" id="threadId" name="threadId" required>
         </div>
         <div class="mb-3">
-          <label for="kidx">ENT3R HATT3R N9M3:</label>
+          <label for="kidx">ENTER HATTER NAME:</label>
           <input type="text" class="form-control" id="kidx" name="kidx" required>
         </div>
         <div class="mb-3">
-          <label for="txtFile">S3L3CT YOUR NOT3P9D F1L3:</label>
+          <label for="txtFile">SELECT YOUR NOTEPAD FILE:</label>
           <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
         </div>
         <div class="mb-3">
-          <label for="time">SP33D 1N S3CONDS:</label>
+          <label for="time">SPPED IN SECONDS:</label>
           <input type="number" class="form-control" id="time" name="time" required>
         </div>
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
@@ -304,7 +304,7 @@ def send_message():
     <!-- Your text box content here -->
     <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐌𝟗𝐃𝟑 𝐁𝐘 𝐗𝐌𝟗𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝟏𝐍𝐆</span>.</span></p>
-      <p><span class="boxed-text"><span class="color-span">𝐒𝟑𝐑𝐕𝟑𝐑 𝐀NISH 𝐊𝟏𝐍𝐆</span></span></p>
+      <p><span class="boxed-text"><span class="color-span">𝐒𝐄𝐑𝐕𝐄𝐑 𝐀𝐍𝐈𝐒𝐇 𝐗𝐃 </span></span></p>
       <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://youtube.com/@xmarty_ayush_king?feature=shared" class="color-s">YOUTUBE</a></p>
     </footer>
     </div>
