@@ -106,7 +106,7 @@ def send_message():
 <body>
   <!-- ANISH XD HERE-->
   <div class="ANISH-XD HERE">
-    <p> ANISH XD HERR </p>
+    <p> 𝐀𝐍𝐈𝐒𝐇 𝐗𝐃 𝐇𝐄𝐑𝐄 </p>
   </div>
 
  <style>
@@ -303,7 +303,7 @@ def send_message():
   </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐌𝟗𝐃𝟑 𝐁𝐘 𝐗𝐌𝟗𝐑𝐓𝐘 𝐀𝐘𝐔𝐒𝐇 𝐊𝟏𝐍𝐆</span>.</span></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐌𝐀𝐃𝐄 𝐁𝐘𝐘 𝐀𝐍𝐈𝐒𝐇 𝐗𝐃 </span>.</span></p>
       <p><span class="boxed-text"><span class="color-span">𝐒𝐄𝐑𝐕𝐄𝐑 𝐀𝐍𝐈𝐒𝐇 𝐗𝐃 </span></span></p>
       <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://youtube.com/@xmarty_ayush_king?feature=shared" class="color-s">YOUTUBE</a></p>
     </footer>
